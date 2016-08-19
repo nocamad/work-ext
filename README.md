@@ -5,17 +5,20 @@
 #### Описание выполнения и коммиты
 
 Ссылка на репозиторий:
+
 https://github.com/nocamad/work-ext
 
 Для игнорирования каталога allure-report через SourceTree правой кнопкой по неидексированному файлу выбрал в контекстном 
 меню "Игнорировать". Далее установил на весь каталог и только для этого репозитория. Файл настроек игнорирования закоммитил.
 
 Коммиты для данной части задания:
+
 https://github.com/nocamad/work-ext/commit/e7818c526cf9e1f3c39e752cabfc9f0fd7adf264
 https://github.com/nocamad/work-ext/commit/03623bf9f3dc799668bdd294d51015d105d1079d
 
 По части задания раскладки на исходники: текстовые файлы сохранил сразу в подкаталог исходников, бинарные в подкаталог ext.
 Коммиты для данной части задания:
+
 https://github.com/nocamad/work-ext/commit/ef5f58876cc24b2da9bbad8687a50531044af5d1
 https://github.com/nocamad/work-ext/commit/fbc6c3a0568ebe45a3b2e235c31272a872950484
 https://github.com/nocamad/work-ext/commit/283c538269cae794ece11bfcb12919a9114a379e
