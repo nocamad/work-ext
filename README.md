@@ -65,6 +65,31 @@ https://github.com/nocamad/work-ext/commit/ce9870d974579241ce74f58f8ebdc34481cda
 
 * также как в видео не формировались первоначально скриншоты из-за разницы в архитектуре установленного IrfanView
 
+### 3 блок: Организация процесса
+
+#### Описание выполнения и коммиты
+
+Ссылка на репозиторий:
+
+https://github.com/nocamad/work-ext
+
+Ссылка на задачу:
+
+https://github.com/nocamad/work-ext/issues/1
+
+
+Создал 2 файла - .os и батник для запуска с параметром расположения данных allure
+
+Коммиты для задания:
+
+https://github.com/nocamad/work-ext/commit/c7ce7fe94dcaf9d0afbd6fdeb4662e13d873363c
+https://github.com/nocamad/work-ext/commit/11b1bd38fd0af836ba9a7996c78cb22f6f0ba7cf
+
+#### Замеченные проблемы
+
+* Не понял как домашнее задание связано с темой и содержанием блока.
+
+
 ### Комментарии
 
 
