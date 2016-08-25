@@ -42,12 +42,17 @@ https://github.com/nocamad/work-ext
 Добавил подкаталог cf в каталог ext для конфигурации 1С.
 Добавил подкаталог cf в каталог src для разложенной на файлы конфигурации 1С.
 Написал фичу по заданию с одним базовым сценарием, далее сгенерировал обработку, закоммитил. (https://github.com/nocamad/work-ext/commit/465b234bbe9632e7859bd667e71eaab58ec5b3ed, https://github.com/nocamad/work-ext/commit/2100c316cb106e87e0b398fabb2a658d04f18ba4)
+
 Реализовал функционал, закоммитил. (https://github.com/nocamad/work-ext/commit/2ff7ed120cc94308be48b5c098e27408e2b9f837)
+
 Добавил сценарии в фичу, закоммитил. (https://github.com/nocamad/work-ext/commit/de292646901c05943c0d880d2068391bf9697da6)
+
 Реализовал шаги сценариев, закоммитил, прогнал тесты, обнаружились ошибки. (https://github.com/nocamad/work-ext/commit/79a50415947fd0c3633c867d5835b11023b18157)
+
 Исправил ошибки в функционале, исправил некорректные данные результатов в некоторых сценариях фичи, закоммитил. (https://github.com/nocamad/work-ext/commit/239f266a92d0cb5cbfc98b77b0f26cc71bd40a45, https://github.com/nocamad/work-ext/commit/ce9870d974579241ce74f58f8ebdc34481cda077)
 
 Коммиты для задания:
+
 https://github.com/nocamad/work-ext/commit/465b234bbe9632e7859bd667e71eaab58ec5b3ed
 https://github.com/nocamad/work-ext/commit/2100c316cb106e87e0b398fabb2a658d04f18ba4
 https://github.com/nocamad/work-ext/commit/2ff7ed120cc94308be48b5c098e27408e2b9f837
